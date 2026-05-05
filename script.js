@@ -3,7 +3,7 @@ const dynamicBtn = document.createElement('button');
 
 // 2. Add text and styling
 dynamicBtn.innerText = 'Dynamic Button';
-dynamicBtn.style.backgroundColor = 'lightblue';
+dynamicBtn.style.backgroundColor = 'lightred';
 
 // 3. Add functionality
 dynamicBtn.addEventListener('click', () => {
